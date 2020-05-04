@@ -1,0 +1,29 @@
+﻿@model List<DAL.ProductModels.Product>
+@{
+    ViewBag.Title = "Home Page";
+    string imagePath = @"/Images/Thumbs/";
+}
+<h1>
+    Products
+</h1>
+<table>
+    @*Reading each product from the list and render it on page*@
+    @foreach (var prod in Model)
+    {
+        <tr>
+            <td>
+                @Html.HiddenFor(proditem => prod.ProductID)
+            </td>
+            <td>
+                @*show logo*@
+                <img src="@(imagePath)@prod.ImagePath" />
+            </td>
+            <td>
+                @*TODO: Adding styles as necessary*@
+                @Html.DisplayFor(proditem => prod.ProductName)
+                <br />
+                @Html.DisplayFor(proditem => prod.UnitPrice)
+            </td>
+        </tr>
+    }
+</table>

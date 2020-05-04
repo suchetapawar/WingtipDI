@@ -1,0 +1,10 @@
+C:\Sucheta\TecsysWingtiptoys\DAL\bin\Debug\DAL.dll.config
+C:\Sucheta\TecsysWingtiptoys\DAL\bin\Debug\DAL.dll
+C:\Sucheta\TecsysWingtiptoys\DAL\bin\Debug\DAL.pdb
+C:\Sucheta\TecsysWingtiptoys\DAL\bin\Debug\EntityFramework.dll
+C:\Sucheta\TecsysWingtiptoys\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Sucheta\TecsysWingtiptoys\DAL\bin\Debug\EntityFramework.xml
+C:\Sucheta\TecsysWingtiptoys\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Sucheta\TecsysWingtiptoys\DAL\obj\Debug\DAL.dll
+C:\Sucheta\TecsysWingtiptoys\DAL\obj\Debug\DAL.pdb
+C:\Sucheta\TecsysWingtiptoys\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
